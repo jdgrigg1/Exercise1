@@ -6,3 +6,6 @@ map_osm = folium.Map(location=[35.7378, -81.3283])
 
 map_osm.create_map(path="hickoryexercise.html"
 !dir
+
+python -m SimpleHTTPServer 8000
+
